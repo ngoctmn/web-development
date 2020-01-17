@@ -1,0 +1,75 @@
+body {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 20px;
+	margin: 0;
+	text-align: center;
+}
+
+.top-container	{
+	background-color: #F2F4B2;
+	height: 700px;
+	padding-top: 50px;
+	width: 100%;
+}
+
+h1 {
+	color: #66BFBF;
+	font-size: 5rem;
+	line-height: 2;
+	margin-top: 20px auto 0 auto;
+	position: relative;
+}
+
+h2 {
+	color: #66BFBF;
+	font-size: 2.5rem;
+	font-weight: normal;
+}
+
+h3, a {
+	color: #11999E;
+}
+
+
+.pro {
+	text-decoration: underline;
+}
+
+.top-cloud {
+	position: absolute;
+	right: 300px;
+	top: 50px;
+}
+
+.bottom-cloud {
+	bottom: 550px;
+	left: 300px;
+	position:  absolute;
+}
+
+.middle-container {
+	position: relative;
+}
+
+.skill-row {
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+}
+
+.code-img {
+	width: 20%;
+	float: left;
+	margin-right: 30px;
+}
+
+.chillies-img {
+	width: 20%;
+	float: right;
+	margin-left: 30px;
+}
+
+.bottom-container {
+	
+}
